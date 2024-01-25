@@ -28,7 +28,7 @@ For an even more robust experience, consider integrating a powerful LLM, such as
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
-3. *Set up your API Key:*
+3. **Set up your API Key:**
 Create a .env file in the root directory of the project and include your API key. This file should look like:
    ```bash
    HUGGINGFACEHUB_API_TOKEN=""
