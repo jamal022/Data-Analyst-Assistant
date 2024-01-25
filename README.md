@@ -1,5 +1,5 @@
 # Data Analyst Assistant
-
+![Data-Analyst-Assistant](./pic.png)
 ## Overview
 
 Welcome to Data Analyst Assistant - a sophisticated Data Analyst Assistant designed to streamline your data analysis tasks effortlessly. Leveraging state-of-the-art technologies, this project combines the power of Hugging Face's LLM ("HuggingFaceH4/zephyr-7b-alpha"), Langchain Agents' "create_pandas_dataframe_agent," and the user-friendly Streamlit framework.
