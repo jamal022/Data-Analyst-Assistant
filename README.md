@@ -23,5 +23,12 @@ For an even more robust experience, consider integrating a powerful LLM, such as
 
 1. **Clone the Repository:**
    ```bash
-   git clone [Your Repository URL]
-   cd [Your Project Name]
+   git clone https://github.com/jamal022/Data-Analyst-Assistant.git
+   cd Data-Analyst-Assistant
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+3. **Run the Application:**
+   ```bash
+   streamlit run app.py
+   
